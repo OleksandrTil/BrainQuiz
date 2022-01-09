@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="question1_title">Где расположен Стоунхендж ?</string>
+    <string name="answer1A">Франция</string>
+    <string name="answer1B">США</string>
+    <string name="answer1C">Великобритания</string>
+    <string name="answer1D">Канада</string>
+    <string name="question1_true_answer">Великобритания</string>
+
+    <string name="question2_title">Чему равняется 4+4*4 ?</string>
+    <string name="answer2A">32</string>
+    <string name="answer2B">64</string>
+    <string name="answer2C">20</string>
+    <string name="answer2D">16</string>
+    <string name="question2_true_answer">20</string>
+
+    <string name="question3_title">В каком году основали ООН ?</string>
+    <string name="answer3A">1945</string>
+    <string name="answer3B">1918</string>
+    <string name="answer3C">1961</string>
+    <string name="answer3D">2000</string>
+    <string name="question3_true_answer">1945</string>
+
+    <string name="question4_title">Какая по счету Земля планета от Солнца ?</string>
+    <string name="answer4A">7</string>
+    <string name="answer4B">3</string>
+    <string name="answer4C">4</string>
+    <string name="answer4D">2</string>
+    <string name="question4_true_answer">3</string>
+
+    <string name="question5_title">В какой стране самое большое население ?</string>
+    <string name="answer5A">Китай</string>
+    <string name="answer5B">Япония</string>
+    <string name="answer5C">США</string>
+    <string name="answer5D">Индия</string>
+    <string name="question5_true_answer">Китай</string>
+
+    <string name="question6_title">Какой самый большой Океан ?</string>
+    <string name="answer6A">Атлантический</string>
+    <string name="answer6B">Тихий</string>
+    <string name="answer6C">Северный Ледовитый</string>
+    <string name="answer6D">Индийский</string>
+    <string name="question6_true_answer">Тихий</string>
+
+    <string name="question7_title">Сколько хромосом у человека ?</string>
+    <string name="answer7A">47</string>
+    <string name="answer7B">46</string>
+    <string name="answer7C">45</string>
+    <string name="answer7D">49</string>
+    <string name="question7_true_answer">46</string>
+
+    <string name="question8_title">Какая самая большая планета в солнечной системе ?</string>
+    <string name="answer8A">Юпитер</string>
+    <string name="answer8B">Земля</string>
+    <string name="answer8C">Солнце</string>
+    <string name="answer8D">Сатурн</string>
+    <string name="question8_true_answer">Юпитер</string>
+
+    <string name="question9_title">Какой самый кассовый фильм в истории ?</string>
+    <string name="answer9A">Мстители: Финал</string>
+    <string name="answer9B">Титаник</string>
+    <string name="answer9C">Звёздные войны. Эпизод VII: Пробуждение Силы</string>
+    <string name="answer9D">Аватар</string>
+    <string name="question9_true_answer">Аватар</string>
+
+    <string name="question10_title">В каком городе расположена Статуя Свободы ?</string>
+    <string name="answer10A">Нью-Йорк</string>
+    <string name="answer10B">Вашингтон</string>
+    <string name="answer10C">Берлин</string>
+    <string name="answer10D">Токио</string>
+    <string name="question10_true_answer">Нью-Йорк</string>
+
+    <string name="question11_title">Где расположен Сфинкс ?</string>
+    <string name="answer11A">Греция</string>
+    <string name="answer11B">Египет</string>
+    <string name="answer11C">Великобритания</string>
+    <string name="answer11D">Италия</string>
+    <string name="question11_true_answer">Египет</string>
+
+    <string name="question12_title">Сколько чемпионских титулов у Михаэля Шумахера в Формуле 1 ?</string>
+    <string name="answer12A">2</string>
+    <string name="answer12B">4</string>
+    <string name="answer12C">7</string>
+    <string name="answer12D">1</string>
+    <string name="question12_true_answer">7</string>
+
+    <string name="question13_title">Какое из перечисленных зданий самое высокое ?</string>
+    <string name="answer13A">Шанхайская башня</string>
+    <string name="answer13B">Королевская часовая башня</string>
+    <string name="answer13C">Бурдж-Халифа</string>
+    <string name="answer13D">Международный финансовый центр Ping An</string>
+    <string name="question13_true_answer">Бурдж-Халифа</string>
+
+    <string name="question14_title">В какой стране обитают Кенгуру ?</string>
+    <string name="answer14A">Австралия</string>
+    <string name="answer14B">ЮАР</string>
+    <string name="answer14C">Австрия</string>
+    <string name="answer14D">Таиланд</string>
+    <string name="question14_true_answer">Австралия</string>
+
+    <string name="question15_title">В каком году состоялся первый полёт человека в космос ?</string>
+    <string name="answer15A">1969</string>
+    <string name="answer15B">1959</string>
+    <string name="answer15C">1963</string>
+    <string name="answer15D">1961</string>
+    <string name="question15_true_answer">1961</string>
+
+    <string name="question16_title">Как называется крупнейшая технологическая компания в Южной Корее ?</string>
+    <string name="answer16A">Samsung</string>
+    <string name="answer16B">LG</string>
+    <string name="answer16C">Sony</string>
+    <string name="answer16D">Sharp</string>
+    <string name="question16_true_answer">Samsung</string>
+
+    <string name="question17_title">Сколько минут идет свет от Солнца к Земле ?</string>
+    <string name="answer17A">8</string>
+    <string name="answer17B">4</string>
+    <string name="answer17C">7</string>
+    <string name="answer17D">6</string>
+    <string name="question17_true_answer">8</string>
+
+    <string name="question18_title">Чему равна скорость света ?</string>
+    <string name="answer18A">~300 000 км/с</string>
+    <string name="answer18B">~60 км/ч</string>
+    <string name="answer18C">~1 000 000 м/с</string>
+    <string name="answer18D">~10 000 км/с</string>
+    <string name="question18_true_answer">~300 000 км/с</string>
+
+</resources>

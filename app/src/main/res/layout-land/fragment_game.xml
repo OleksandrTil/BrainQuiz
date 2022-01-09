@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragments.GameFragment">
+
+  <androidx.constraintlayout.widget.ConstraintLayout
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      android:background="@color/colorBackground"
+      >
+
+      <TextView
+          android:id="@+id/tvQuestion"
+          android:layout_width="0dp"
+          android:layout_height="@dimen/text_view_Question_height_land"
+          android:layout_marginTop="@dimen/standard_margin"
+          android:fontFamily="@font/caveat_bold"
+          android:textAlignment="center"
+          android:textSize="@dimen/text_view_Question_text_size_land"
+          app:layout_constraintLeft_toLeftOf="parent"
+          app:layout_constraintRight_toRightOf="parent"
+          app:layout_constraintTop_toTopOf="parent" />
+
+      <Button
+          android:id="@+id/btnAnswA"
+          style="@style/answer_button_land"
+          android:layout_marginTop="@dimen/first_answer_button_margin_top_land"
+          app:layout_constraintEnd_toEndOf="parent"
+          app:layout_constraintStart_toStartOf="parent"
+          app:layout_constraintTop_toBottomOf="@+id/tvQuestion" />
+
+      <Button
+          android:id="@+id/btnAnswB"
+          style="@style/answer_button_land"
+          app:layout_constraintEnd_toEndOf="parent"
+          app:layout_constraintStart_toStartOf="parent"
+          app:layout_constraintTop_toBottomOf="@+id/btnAnswA" />
+
+      <Button
+          android:id="@+id/btnAnswC"
+          style="@style/answer_button_land"
+          app:layout_constraintEnd_toEndOf="parent"
+          app:layout_constraintStart_toStartOf="parent"
+          app:layout_constraintTop_toBottomOf="@+id/btnAnswB" />
+
+      <Button
+          android:id="@+id/btnAnswD"
+          style="@style/answer_button_land"
+          app:layout_constraintEnd_toEndOf="parent"
+          app:layout_constraintStart_toStartOf="parent"
+          app:layout_constraintTop_toBottomOf="@+id/btnAnswC" />
+  </androidx.constraintlayout.widget.ConstraintLayout>
+
+</FrameLayout>

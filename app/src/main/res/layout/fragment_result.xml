@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragments.ResultFragment">
+
+<androidx.constraintlayout.widget.ConstraintLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorBackground">
+    <ImageView
+        android:id="@+id/imCup"
+        android:layout_width="@dimen/result_image_layout_width"
+        android:layout_height="@dimen/result_image_layout_height"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/cup" />
+
+    <TextView
+        android:id="@+id/tvResult"
+        android:layout_width="@dimen/result_text_view_layout_width"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/caveat_bold"
+        android:textAlignment="center"
+        android:textSize="@dimen/text_view_result_size"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imCup" />
+
+    <info.hoang8f.widget.FButton
+        android:id="@+id/btnNewGame"
+        android:layout_width="@dimen/result_button_layout_width"
+        android:layout_height="@dimen/result_button_layout_height"
+        android:layout_marginTop="@dimen/result_button_margin_top"
+        android:fontFamily="@font/caveat_regular"
+        android:text="@string/new_game"
+        android:textSize="@dimen/result_button_text_size"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tvResult" />
+</androidx.constraintlayout.widget.ConstraintLayout>
+
+</FrameLayout>

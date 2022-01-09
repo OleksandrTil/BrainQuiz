@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BrainQuiz</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login_welcome">Добро Пожаловать!</string>
+    <string name="login_start">Старт!</string>
+    <string name="new_game">Заново!</string>
+    <string name="number_of_correct_answer">Правильных ответов:</string>
+
+</resources>
